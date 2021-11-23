@@ -26,7 +26,7 @@ This application represents shop, where users can buy tickets for the available 
 - Fork this project to your repository
 - Clone project locally and open it in IntelliJ IDEA
 - [Install MySQL](https://dev.mysql.com/downloads/workbench/)
-- [Install Tomcat 9.0.54](https://tomcat.apache.org/download-90.cgi/)
+- [Install Tomcat 9.0.54](https://tomcat.apache.org/download-90.cgi)
 - Change properties for the folliwing line in db.properties file:
 
 1. db.driver=YOUR_DRIVER

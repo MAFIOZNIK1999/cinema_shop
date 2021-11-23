@@ -35,4 +35,3 @@ This application represents shop, where users can buy tickets for the available 
 4. db.password=YOUR_PASSWORD
 
 - Simply run application on your computer. You should Postman API to send Get, Post, Delete, Put requests to the webserver.
-- 
